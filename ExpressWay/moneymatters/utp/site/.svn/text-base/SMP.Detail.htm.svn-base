@@ -1,0 +1,514 @@
+<!doctype HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<title>TxDOT - Money Matters</title>
+<meta http-equiv="Content-Language" content="en-us">
+<meta name="GENERATOR" content="Microsoft FrontPage 5.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>TxDOT Unified Transportation Program</title>
+<meta name="description" content="Unified Transportation Program">
+<meta name="keywords" content="Texas Department of Transportation, 
+TxDOT, State of Texas, DOT, highways, roads, business, construction, maintenance, 
+design, schedule, plans">
+<meta name="author" content="Texas Department of Transportation (State of Texas)">
+<meta http-equiv="expires" content="Tue, 1 Jul 1980 00:00:01 GMT">
+<script LANGUAGE="JavaScript" TYPE="text/javascript">
+<!--
+if(window.event + "" == "undefined") event = null;
+function HM_f_PopUp(){return false};
+function HM_f_PopDown(){return false};
+popUp = HM_f_PopUp;
+popDown = HM_f_PopDown;
+
+//-->
+</script>
+<script LANGUAGE="JavaScript1.2" TYPE="text/javascript">
+<!--
+var ArrayName = "MoneyMatters";
+//-->
+</script>
+<script LANGUAGE="JavaScript1.2" SRC="../../../txdotmenu/HM_Loader.js" TYPE="text/javascript">
+</script>
+<link rel="stylesheet" type="text/css" href="../../../template/stylesheets/txdot.css">
+</head>
+
+<body topmargin="0" leftmargin="2" marginwidth="2" marginheight="0">
+
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td><img border="0" src="../../../imglib/new/txdot_exp_logo.gif" alt="TxDOT Expressway" width="343" height="37"></td>
+<td align="right">
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><b>Search:</b></td>
+</tr>
+<tr>
+<form action="/index/queryhit.idq" method="GET">
+<td>
+	<input type="hidden" name="CiMaxRecordsPerPage" value="10" size="0">
+	<input type="hidden" name="CiScope" value="/" size="0">
+	<input type="hidden" name="CiSort" value="rank[d]" size="0">
+	<input type="hidden" name="HTMLQueryForm" value="/search/search.htm" size="0">
+	<input type="hidden" name="TemplateName" value="queryhit" size="0">
+	<input type="text" size="15" name="UserRestriction" alt="Search Text Box">
+	<input type="submit" value="Go" class="Submit" alt="Submit Button">
+</td>
+</form>
+</tr>
+  <tr>
+    <td colspan="2">
+    </td>
+  </tr>
+</table>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+            <table border="0" cellpadding="2" cellspacing="0" width="100%">
+              <tr>
+                <td class="bluebkgrnd">
+		&nbsp;&nbsp;&nbsp;<a class="white" href="/txdot.htm">Home</a>&nbsp;&nbsp;&nbsp;|
+		&nbsp;&nbsp;&nbsp;<a class="white" href="/cgi-bin/mailform.pl">Contact Us</a>&nbsp;&nbsp;&nbsp;|
+		&nbsp;&nbsp;&nbsp;<a class="white" href="/tools/tools.htm">Tools</a>&nbsp;&nbsp;&nbsp;|
+		&nbsp;<a class="white" href="/othertrans/othertrans.htm">Links</a>&nbsp;&nbsp;&nbsp;|
+		&nbsp;&nbsp;&nbsp;<a class="white" href="/whatsnew/whatsnew.htm">What's New</a>&nbsp;&nbsp;&nbsp;|</td>
+                <td align="right" class="bluebkgrnd">
+		<a class="white" href="/help/help.htm">Help</a>&nbsp;&nbsp;&nbsp;</td>
+              </tr>
+            </table>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+    </td>
+  </tr>
+</table>
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td></td>
+  </tr>
+</table>
+<table CELLPADDING="0" CELLSPACING="0" BORDER="0">
+  <tr>
+    <td colspan="5">
+    <img border="0" src="../../../imglib/SPACER.GIF" width="3" height="3" alt="spacer"></td>
+  </tr>
+  <tr>
+    <td width="160" valign="top">
+    
+    <table CELLPADDING="0" CELLSPACING="0" BORDER="0"><tr><form><td>
+<b>DOT Links<sup>©</sup></b>
+<br>
+<select size="1" name="DotLink" onchange="javascript:if (DotLink.options[selectedIndex].value != '')location.href = DotLink.options[selectedIndex].value">
+ <option>Select A Link...</option>
+ <option value="/insdtdot/geninfo.htm">About TxDOT</option>
+ <option value="/vtr/vtrreginfo.htm">Automobiles</option>
+ <option value="/AVN/avninfo.htm">Aviation</option>
+ <option value="/business/business.htm">Business</option>
+ <option value="/customerservice/default.htm">Customer Services</option>
+ <option value="/employment/jobs.htm">Employment</option>
+ <option value="/resources/default.htm">Environmental</option>
+ <option value="/faqsandforms/index.htm">FAQs and Forms</option>
+ <option value="/kidsonly/splashpg/splashpg.htm">Kid's Pages</option>
+ <option value="/LAO/geninfo.htm">Legislation</option>
+ <option value="/localinfo/localinfo.htm">Local Information</option>
+ <option value="/moneymatters/moneymatters.htm">Money Matters</option>
+ <option value="/txdotnews/txdotnews.htm">News and Media</option>
+ <option value="/ptn/geninfo.htm">Public Transportation</option>
+ <option value="/rtmodes/rtmodes.htm">Roadway Information</option>
+ <option value="/trafficsafety/srs/default.htm">Safe Routes to School</option>
+ <option value="/trafficsafety/default.htm">Traffic Safety</option>
+ <option value="/mis/mis.htm">Transportation Studies</option>
+ <option value="/travelservices/">Travel Services</option>
+ <option value="/mcd/onestop/">Trucking / VSF</option>
+</select>
+</td></form></tr></table>
+
+<br>&nbsp;
+	
+    <!-- #include virtual = "/moneymatters/includes/nojs-menu.inc"  -->
+    </td>
+    <td width="3">
+    <img border="0" src="../../../imglib/SPACER.GIF" width="3" height="1" alt="spacer"></td>
+    <td width="1" background="../../../imglib/new/horz_line-a.gif">
+    <img border="0" src="../../../imglib/SPACER.GIF" alt="spacer" width="1" height="1"></td>
+    <td width="3">
+    <img border="0" src="../../../imglib/SPACER.GIF" width="3" height="1" alt="spacer"></td>
+    <td valign="top" width="100%">
+    <table border="0" cellpadding="2" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" id="AutoNumber1">
+      <tr>
+        <td width="100%" valign="top">
+          <span class="pghdr">Statewide Maintenance Program </span>
+          <p><strong><a name="macp"></a>METROPOLOTAN AREA (TMA) CORRIDOR PROJECTS </strong><strong></strong>
+          <p><strong>Description</strong></p>
+          <p>Category 2 addresses the mobility needs within metropolitan planning area (MPA) boundaries in all major metropolitan areas with populations greater than 200,000 (Transportation Management Areas) throughout the state. </p>
+          <p><strong>Restrictions</strong></p>
+          <p>Funds will be used to develop and improve entire corridors of independent utility, whenever possible. </p>
+          <p>All projects must be developed in accordance with applicable federal and state environmental requirements. All projects must be designed, constructed, operated, and maintained in accordance with state laws, regulations, directives, safety standards, design standards and construction standards as required by TEA-21 or its successor legislation. </p>
+          <p>Projects in this category must have the concurrence and support of the Metropolitan Planning Organization (MPO) having jurisdiction in the particular area.</p>
+          <p><strong>Project Selection</strong><strong></strong></p>
+          <p>Six criteria are used to establish funding targets for planning purposes for the urban areas. The criteria used are:</p>
+          <ul>
+            <li>On and Off-System Vehicle Miles Traveled (VMT) </li>
+            <li>On-System Truck VMT </li>
+            <li>Population (MPO Planning Boundary) </li>
+            <li>On-System Lane Miles </li>
+            <li>Fatal and Incapacitating Accident Rate (MVMT)</li>
+            <li>Percent of Population Under the Federal Poverty Level</li>
+          </ul>
+		  <p>The percentages for each criterion adopted by consensus for this category are:
+            <blockquote><table width="27%"  border="0" align="left">
+              <tr>
+                <td width="55%"><div align="left">Total VMT </div></td>
+                <td width="45%"><div align="right">32.50 %</div></td>
+              </tr>
+              <tr>
+                <td><div align="left">Truck VMT</div></td>
+                <td><div align="right">14.06 % </div></td>
+              </tr>
+              <tr>
+                <td><div align="left">Population</div></td>
+                <td><div align="right">22.19%</div></td>
+              </tr>
+              <tr>
+                <td><div align="left">Lane Miles </div></td>
+                <td><div align="right">16.88%</div></td>
+              </tr>
+              <tr>
+                <td><div align="left">Accident Rate </div></td>
+                <td><div align="right">6.56%</div></td>
+              </tr>
+              <tr>
+                <td><div align="left">Poverty Level</div></td>
+                <td><div align="right">6.88%</div></td>
+              </tr>
+            </table>
+            </blockquote></p>
+          <p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+          <p><strong>Policy</strong></p>
+          <p>Consideration may be given to the investment already made in a project by both </p>
+          <p>TxDOT and local entities (except in those counties designated as disadvantaged by the 75th Session of the Texas Legislature, Senate Bill 370, Section 1.18). </p>
+          <p>Match for preliminary engineering, construction, and right-of-way purchase/utility adjustments will be in accordance with TxDOT's Policy for Matching Funds - Participation Ratios. </p>
+          <p><strong>Levels of Authority</strong><strong></strong></p>
+          <p>PLAN - Projects authorized for environmental studies and route/right-of-way determination. (Eleven to twenty years, or more, in the future) </p>
+          <p>CONSTRUCT - Projects authorized for complete plans, specifications and estimate (PS&amp;E) preparation, right-of-way acquisition, utility adjustments and construction letting based upon a consensus driven schedule developed by all districts having projects. (Current year plus the next ten years).</p>
+          <p><strong><a name="uacp"></a>URBAN AREA (non-TMA) CORRIDOR PROJECTS</strong><strong></strong></p>
+          <p><strong>Description</strong></p>
+          <p>Category 3 addresses the mobility needs within MPA boundaries in all MPO areas with population greater than 50,000 and less than 200,000 (Non-Transportation Management Areas) throughout the state. </p>
+          <p><strong>Restrictions</strong></p>
+          <p>Funds will be used to develop and improve entire corridors of independent utility, whenever possible. </p>
+          <p>All projects must be developed in accordance with applicable federal and state environmental requirements. All projects must be designed, constructed, operated, and maintained in accordance with state laws, regulations, directives, safety standards, design standards and construction standards as required by TEA-21 or its successor legislation. </p>
+          <p>Projects in this category must have the concurrence and support of the MPO having jurisdiction in the particular area. </p>
+          <p><strong>Project Selection</strong><strong></strong></p>
+          <p>Seven criteria are used to establish funding targets for planning purposes for the urban areas. The criteria used are:</p>
+          <ul>
+            <li>On and Off-System Vehicle Miles Traveled (VMT) </li>
+            <li>On-System Truck VMT </li>
+            <li>Population (MPO Planning Boundary) </li>
+            <li>On-System Centerline Miles </li>
+            <li>On-System Lane Miles </li>
+            <li>Fatal and Incapacitating Accident Rate (MVMT)</li>
+            <li>Percent of Population Under the Federal Poverty Level</li>
+          </ul>          <p>The percentages for each criterion adopted by consensus for this category are:
+          <blockquote>
+		  <table width="27%"  border="0" align="left">
+            <tr>
+              <td width="55%"><div align="left">Total VMT </div></td>
+              <td width="45%"><div align="right">22%</div></td>
+            </tr>
+            <tr>
+              <td><div align="left">Truck VMT</div></td>
+              <td><div align="right">15 % </div></td>
+            </tr>
+            <tr>
+              <td><div align="left">Population</div></td>
+              <td><div align="right">26%</div></td>
+            </tr>
+            <tr>
+              <td>Centerline Miles </td>
+              <td><div align="right">6%</div></td>
+            </tr>
+            <tr>
+              <td><div align="left">Lane Miles </div></td>
+              <td><div align="right">11%</div></td>
+            </tr>
+            <tr>
+              <td><div align="left">Accident Rate </div></td>
+              <td><div align="right">11%</div></td>
+            </tr>
+            <tr>
+              <td><div align="left">Poverty Level</div></td>
+              <td><div align="right">9%</div></td>
+            </tr>
+          </table>
+		  </blockquote></p>
+          <p>&nbsp;</p>
+          <p>&nbsp;</p>
+          <p>&nbsp;</p>
+          <p><strong>Policy</strong></p>
+          <p>Consideration may be given to the investment already made in a project by both </p>
+          <p>TxDOT and local entities (except in those counties designated as disadvantaged by the 75th Session of the Texas Legislature, Senate Bill 370, Section 1.18). </p>
+          <p>Match for preliminary engineering, construction, and right-of-way purchase/utility adjustments will be in accordance with TxDOT's Policy for Matching Funds - Participation Ratios. </p>
+          <p><strong>Levels of Authority</strong><strong></strong></p>
+          <p>PLAN - Projects authorized for environmental studies and route/right-of-way determination. (Eleven to twenty years, or more, in the future) </p>
+          <p>CONSTRUCT - Projects authorized for complete plans, specifications and estimate (PS&amp;E) preparation, right-of-way acquisition, utility adjustments and construction letting based upon a consensus driven schedule developed by all districts having projects. (Current year plus the next ten years). </p>
+          <p><strong><a name="sccp"></a>STATEWIDE CONNECTIVITY CORRIDOR PROJECTS</strong><strong></strong></p>
+          <p><strong>Description</strong><strong></strong></p>
+          <p>Category 4 addresses connectivity mobility needs outside of MPA boundaries throughout the state. </p>
+          <p><strong>Restrictions</strong></p>
+          <p>Funds will be used to develop and improve entire corridors of independent utility, whenever possible. </p>
+          <p>All projects must be developed in accordance with applicable federal and state environmental requirements. All projects must be designed, constructed, operated, and maintained in accordance with state laws, regulations, directives, safety standards, design and construction standards as required by TEA-21 or its successor legislation.</p>
+          <p><strong>Project Selection</strong><strong></strong></p>
+          <p>Six criteria with weighted percentages are used to establish funding targets for planning purposes for statewide connectivity corridors. The weighted criteria used are:</p>
+          <blockquote>
+            <table width="40%"  border="0" align="left">
+              <tr valign="top">
+                <td width="88%"><div align="left">Gap Completion</div></td>
+                <td width="12%"><div align="right">29%</div></td>
+              </tr>
+              <tr valign="top">
+                <td><div align="left">Accommodate Traffic Volumes </div></td>
+                <td><div align="right">21% </div></td>
+              </tr>
+              <tr valign="top">
+                <td><div align="left">Alleviate Congestion due to Truck Traffic </div></td>
+                <td><div align="right">26%</div></td>
+              </tr>
+              <tr valign="top">
+                <td>Provide reasonable Quality of Service </td>
+                <td><div align="right">17%</div></td>
+              </tr>
+              <tr valign="top">
+                <td><div align="left">Importance of Military/Disaster Preparedness and Response </div></td>
+                <td><div align="right">8%</div></td>
+              </tr>
+              <tr valign="top">
+                <td><div align="left">Connect Ports of Entry to Category 4 Network </div></td>
+                <td><div align="right">6%</div></td>
+              </tr>
+            </table>
+          </blockquote>          
+          <p>&nbsp;</p>
+          <p>&nbsp;</p>
+          <p>&nbsp;</p>
+          <p>&nbsp;</p>
+          <p><br>
+            <strong>Policy</strong></p>
+          <p>Consideration may be given to the investment already made in a project by both </p>
+          <p>TxDOT and local entities (except in those counties designated as disadvantaged by the 75th Session of the Texas Legislature, Senate Bill 370, Section 1.18). </p>
+          <p>Match for preliminary engineering, construction, and right-of-way purchase/utility adjustments will be in accordance with TxDOT's Policy for Matching Funds - Participation Ratios.</p>
+          <p><strong>Levels of Authority</strong><strong></strong></p>
+          <p>PLAN - Projects authorized for environmental studies and route/right-of-way determination. (Eleven to twenty years, or more, in the future) </p>
+          <p>CONSTRUCT - Projects authorized for complete plans, specifications and estimate (PS&amp;E) preparation, right-of-way acquisition, utility adjustments and construction letting based upon a consensus driven schedule developed by all districts having projects. (Current year plus the next ten years).</p>
+          <p><strong> </strong><strong><a name="cmaq"></a>CONGESTION MITIGATION AND AIR QUALITY IMPROVEMENT</strong></p>
+          <p><strong>Description</strong></p>
+          <p>This category addresses the attainment of a national ambient air quality standard in the non-attainment areas of the state. Projects pertain to congestion mitigation and air quality improvement (CMAQ) in the non-attainment areas in the state. </p>
+          <p><strong>Restrictions</strong></p>
+          <p>CMAQ projects are selected by the MPO in consultation with TxDOT and the Texas Commission on Environmental Quality. Projects must have final approval by the Environmental Protection Agency (EPA) and the Federal Highway Administration (FHWA) before letting. </p>
+          <p>Each CMAQ project is evaluated to quantify its air quality improvement benefits. </p>
+          <p>Funds can not be used to add capacity for single occupancy vehicles. </p>
+          <p>All projects must be developed in accordance with applicable federal or state environmental requirements. </p>
+          <p>All projects must be designed, constructed, operated and maintained in accordance with state laws, regulations, directives, safety standards, design and construction standards as required by TEA-21 or its successor legislation.</p>
+          <p><strong>Allocation to Districts</strong><strong></strong></p>
+          <p>Each nonattainment area receives an annual allocation to expend. Allocations are based on population and air quality non-attainment factors outlined in TEA-21. </p>
+          <p>The program is managed by the MPO as an allocation program with eligible projects developed by the districts on an as-needed basis. Projects can be canceled or changed as long as the program balance is not exceeded; however there are ramifications for air quality planning for the nonattainment area from any project change or cancellation. </p>
+          <p>Additional programming authority has also been allocated to the districts for the development of plans, specifications, estimates and right-of-way purchase. Funding of these projects can be made through upcoming CMAQ programs.</p>
+          <p><strong>Policy</strong><strong></strong></p>
+          <p>Match for preliminary engineering, construction, and right-of-way purchase/utility adjustments will be in accordance with TxDOT's Policy for Matching Funds - Participation Ratios.</p>
+          <p><strong>Levels of Authority</strong><strong></strong></p>
+          <p>DEVELOP - Projects authorized for complete plans, specifications and estimate </p>
+          <p>(PS&amp;E) preparation, right-of-way acquisition, and utility adjustments but excludes construction letting. (Four to ten years in the future) </p>
+          <p>CONSTRUCT &ndash; Projects authorized for complete plans, specifications and estimate (PS&amp;E) preparation, right-of-way acquisition, utility adjustments and construction letting. (Current year plus the next three years) </p>
+          <p><strong><a name="mmr"></a>METROPLOITAN / MOBILITY REHABILITATION </strong><strong></strong></p>
+          <p><strong>Description</strong></p>
+          <p>This category addresses transportation needs within the MPA boundaries of MPOs having urbanized areas with populations of 200,000 or greater.</p>
+          <p><strong>Restrictions</strong></p>
+          <p>Projects are selected by the MPO in consultation with the districts. This program authority can be used on any roadway with a functional classification greater than a local road or rural minor collector.</p>
+          <p>All projects must be developed in accordance with the applicable federal and state environmental requirements. All projects must also be designed, constructed, operated and maintained in accordance with state laws, regulations, directives, safety standards, design and construction standards as required by TEA-21 or its successor legislation. </p>
+          <p><strong>Allocation to Districts</strong><strong></strong></p>
+          <p>Each urbanized area with a population of at least 200,000 receives an annual allocation to expend. Allocations are based on population and distributed to TxDOT districts. </p>
+          <p>The program is managed as an allocation program, and eligible projects (selected by the MPO) are developed by the districts on an as-needed basis. Projects can be canceled or changed as long as the program balance is not exceeded. </p>
+          <p>Additional programming authority has also been allocated to the districts for the development of plans, specifications, estimates and right-of-way purchase. Funding of these projects can be made through upcoming Metropolitan Mobility/Rehabilitation programs.</p>
+          <p><strong>Policy</strong></p>
+          <p>The federal program authority will be allocated through the district to the qualifying MPOs. </p>
+          <p>Match for preliminary engineering, construction, and right-of-way purchase/utility adjustments will be in accordance with TxDOT's Policy for Matching Funds - Participation Ratios.</p>
+          <p><strong>Levels of Authority</strong><strong></strong></p>
+          <p>DEVELOP - Projects authorized for complete plans, specifications and estimate </p>
+          <p>(PS&amp;E) preparation, right-of-way acquisition, and utility adjustments but excludes construction letting. (Four to ten years in the future). </p>
+          <p>CONSTRUCT &ndash; Projects authorized for complete plans, specifications and estimate (PS&amp;E) preparation, right-of-way acquisition, utility adjustments and construction letting. (Current year plus the next three years).</p>
+          <p><strong><a name="safety"></a>SAFETY</strong><strong></strong></p>
+          <p><strong>Description</strong></p>
+          <p>This category is composed of the following TxDOT safety programs: Federal Hazard Elimination Program and the Federal Railroad Signal Safety Program. TEA-21 provides that 10 percent of all the Surface Transportation Program (STP) funds apportioned to the state be dedicated to safety projects. </p>
+          <p><strong>Restrictions</strong></p>
+          <p>Safety funds apportioned under the Federal Hazard Elimination Program are to be used to implement highway safety improvement projects on any public road other than an Interstate. Safety funds apportioned under the Federal Railroad Signal Safety Program are to be used to implement highway-rail grade crossing safety projects on any public road. Safety funds apportioned under the Federal Hazard Elimination Program or the Federal Railroad Signal Safety Program can also be used to develop a crash records information system. </p>
+          <p>All projects must be developed in accordance with applicable federal and state environmental requirements. All projects must be designed, constructed, operated, and maintained in accordance with state laws, regulations, directives, safety standards, design and construction standards as required by TEA-21 or its successor legislation. </p>
+          <p><strong>Project Selection</strong><strong></strong></p>
+          <p>Allocations for the safety programs are approved by the Commission. The programs are managed as allocation programs on a statewide basis. Projects are evaluated, ranked, prioritized and selected by the Traffic Operations Division. </p>
+          <p>TxDOT districts and divisions receive program authority for the projects selected for inclusion in a safety program. The Federal Hazard Elimination Program is usually a one-year program with the program funds available for use within three years. The Federal Railroad Signal Safety Program is usually a one-year program with the program funds available for use within four years.</p>
+          <p><strong>Policy</strong> </p>
+          <p>Federal Hazard Elimination Program projects are evaluated and ranked by a safety improvement index using three years of accident data. </p>
+          <p>All highway-rail crossings on the statewide inventory are prioritized using the Texas Priority Index (PI). This index is based on the number of trains per day, speed of trains, current average daily traffic, number of school bus crossings per day (special vehicles), type of warning devices, and train involved accidents within the prior five years. Those crossings with the highest PI are selected for the Federal Railroad Signal Safety Program. </p>
+          <p>Funds for a crash records information system will be approved by the Executive Director (or designee). </p>
+          <p>Match for preliminary engineering, construction, and right-of-way purchase/utility adjustments will be in accordance with TxDOT's Policy for Matching Funds - Participation Ratios. </p>
+          <p><strong>Levels of Authority</strong><strong></strong></p>
+          <p>CONSTRUCT &ndash; Projects authorized for complete plans, specifications and estimate (PS&amp;E) preparation, right-of-way acquisition, utility adjustments and construction letting. (Current year plus the next three years). </p>
+          <p><strong><a name="te"></a>TRANSPORTATION ENHANCEMENTS </strong></p>
+          <p><strong>Description</strong></p>
+          <p>This category addresses projects that are above and beyond what could normally be expected in the way of enhancements to the transportation system. </p>
+          <p><strong>Restrictions</strong></p>
+          <p>Projects programmed in this category must fall under one of the following general activities as outlined in TEA-21: </p>
+          <ol>
+            <li> Provision of facilities for pedestrians and bicycles. </li>
+            <li> Acquisition of scenic easements and scenic or historic sites. </li>
+            <li> Scenic or historic highway programs (including the provision of tourist and welcome center facilities). </li>
+            <li> Landscaping and other scenic beautification. </li>
+            <li> Historic preservation. </li>
+            <li> Rehabilitation and operation of historic transportation buildings, structures or facilities (including historic railroad facilities and canals). </li>
+            <li> Preservation of abandoned railway corridors (including the conversion and use thereof for pedestrian or bicycle trails). </li>
+            <li> Control and removal of outdoor advertising. </li>
+            <li> Archaeological planning and research. </li>
+            <li> Environmental mitigation to address water pollution due to highway runoff or reduce vehicle-caused wildlife mortality while maintaining habitat connectivity. </li>
+            <li> Provision of safety and educational activities for pedestrians and bicyclists. </li>
+            <li> Establishment of transportation museums. </li>
+          </ol>          <p>All projects must be developed in accordance with applicable federal and state environmental requirements. All projects must be designed, constructed, operated and maintained in accordance with state laws, regulations, directives, safety standards, design and construction standards as required by TEA-21 or its successor legislation. </p>
+          <p>Agreements must be executed prior to beginning work. </p>
+          <p>Projects in this category must have the concurrence of the MPO if it is located in their area of jurisdiction. </p>
+          <p><strong>Project </strong><strong>Selection</strong><strong></strong></p>
+          <p>Projects are prioritized and selected by the Commission on a statewide basis for the Texas Statewide Transportation Enhancement Program. </p>
+          <p>Districts receive program authority for the projects selected for inclusion. </p>
+          <p><strong>Policy</strong></p>
+          <p>All projects in this category will be selected and programmed in accordance with the rules as published in Title 43, Texas Administrative Code, Part I, Chapter 11, Sections 11.201 - 11.205. </p>
+          <p>Match for preliminary engineering, construction, and right-of-way purchase/utility adjustments will be in accordance with TxDOT's Policy for Matching Funds - Participation Ratios. </p>
+          <p><strong>Levels of Authority</strong><strong></strong></p>
+          <p>CONSTRUCT &ndash; Projects authorized for complete plans, specifications and estimate (PS&amp;E) preparation, right-of-way acquisition, utility adjustments and construction letting. (Current year plus the next three years). </p>
+          <p><strong><a name="stp"></a>SUPPLEMENTAL TRANSPORTATION PROJECTS </strong></p>
+          <p><strong>Description</strong></p>
+          <p>This category addresses projects that cannot be placed into any other category. </p>
+          <p>Examples of programs included in this category would be for: </p>
+          <ul>
+            <li>State Park Roads </li>
+            <li>Railroad Grade Crossing Replanking Program </li>
+            <li>Railroad Signal Maintenance Program </li>
+            <li>Construction Landscape Program </li>
+            <li>Landscape Cost Sharing Program </li>
+            <li>Landscape Incentives Awards Program </li>
+            <li>Green Ribbon Landscape Improvement Program </li>
+            <li>Travel Information Centers </li>
+            <li>Truck Weight Stations </li>
+            <li>Ferry Boat Discretionary - Federal Program </li>
+            <li>Federal Lands Highways - Federal Program </li>
+            <li>Indian Reservation Highways - Federal Program </li>
+            <li> Forest Highways - Federal Program </li>
+          </ul>          <p>Most of these programs are state funded; however, federal funds are involved in some programs as noted above. Projects in this category must have the concurrence of the MPO if located within their area of jurisdiction. </p>
+          <p><strong>Restrictions</strong></p>
+          <p>Each of the supplemental transportation programs is addressed to a specific type of work. The Commission approves the requirements for each program. </p>
+          <p><strong>Allocation to Districts</strong><strong></strong></p>
+          <p>Allocations for the various state programs are approved by the Texas Transportation Commission, with the programs managed as allocation programs on a statewide basis with the projects evaluated, prioritized and selected by the appropriate TxDOT division (the one responsible for the program). </p>
+          <p>The Commission authorizes TxDOT's participation in federal supplemental transportation programs when federal program funds are available. </p>
+          <p>Districts receive program authority for the projects selected for inclusion in one of these supplemental transportation programs.</p>
+          <p><strong>Policy</strong></p>
+          <p>Match for preliminary engineering, construction, and right-of-way purchase/utility adjustments will be in accordance with TxDOT's Policy for Matching Funds - Participation Ratios.</p>
+          <p><strong>Levels of Authority</strong><strong></strong></p>
+          <p>CONSTRUCT &ndash; Projects authorized for complete plans, specifications and estimate (PS&amp;E) preparation, right-of-way acquisition, utility adjustments and construction letting. (Current year plus the next three years).</p>
+          <p><strong><a name="dd"></a>DISTRICT DISCRETIONARY </strong></p>
+          <p><strong>Description</strong></p>
+          <p>This category addresses miscellaneous projects selected at the district engineer&rsquo;s discretion. </p>
+          <p><strong> Restrictions</strong></p>
+          <p>Most projects are on the state highway system. However, some projects may be selected for construction off the state highway system on roadways with a functional classification greater than a local road or rural minor collector. Funds from this program should not be used for right-of-way acquisition.</p>
+          <p><strong>Allocation to Districts</strong><strong></strong></p>
+          <p>Allocations for the District Discretionary program are approved by the commission with each district receiving an allocation based upon the following recommended formula:</p>
+          <p>Each district will receive a minimum allocation of $2,500,000 with the limitation that this minimum allocation cannot be used for overruns of construction projects.</p>
+          <p>Funding amounts for each district above the minimum allocation is based on:</p>
+          <blockquote>
+            <p>70% On-System Vehicle Miles Traveled (VMT)<br>
+                20% On-System Lane Miles<br>
+                10% Annual Truck VMT</p>
+            </blockquote>          <p>The program is managed as allocation programs with eligible projects developed by the districts within their allocation. District Discretionary Programs are usually one-year programs with the funds available for use within four years. </p>
+          <p>Additional programming authority has also been allocated to the districts for the development of plans, specifications, estimates and right-of-way purchase. Funding of these projects can be made through their annual District Discretionary Program, other district allocation programs or the Strategic Priority Program. </p>
+          <p><strong>Policy</strong></p>
+          <p><strong> </strong>Match for preliminary engineering, construction, and right-of-way purchase/utility adjustments will be in accordance with TxDOT's Policy for Matching Funds - Participation Ratios.</p>
+          <p><strong>Levels of Authority</strong><strong></strong></p>
+          <p>DEVELOP - Projects authorized for complete plans, specifications and estimate </p>
+          <p>(PS&amp;E) preparation, right-of-way acquisition, and utility adjustments but excludes construction letting. (Four to ten years in the future). </p>
+          <p>CONSTRUCT &ndash; Projects authorized for complete plans, specifications and estimate (PS&amp;E) preparation, right-of-way acquisition, utility adjustments and construction letting. (Current year plus the next three years).</p>
+          <p><strong><a name="sp"></a>STRATEGIC PRIORITY </strong></p>
+          <p><strong>Description</strong></p>
+          <p>This category gives the Commission flexibility in selecting projects for construction throughout the state which may not meet other program criteria. These projects generally promote economic development, provide system continuity with adjoining states and Mexico, increase efficiency on military deployment routes, or address other strategic needs as determined by the Commission. </p>
+          <p><strong>Restrictions</strong></p>
+          <p>Once selected for Strategic Priority, the cost of the project is authorized and fixed. </p>
+          <p>No additional Strategic Priority funds will be authorized. Cost increases or overruns will be funded from other sources. </p>
+          <p>Projects in this category must have the concurrence of the MPO if it is located in their area of jurisdiction.</p>
+          <p><strong>Project Selection</strong><strong></strong></p>
+          <p>The Commission selects and approves projects for this category. Each year the Commission reviews and may reauthorize projects. </p>
+          <p><strong>Policy</strong></p>
+          <p>Match for preliminary engineering, construction, and right-of-way purchase/utility adjustments will be in accordance with TxDOT's Policy for Matching Funds - Participation Ratios. </p>
+          <p><strong>Levels of Authority</strong><strong></strong></p>
+          <p>CONSTRUCT &ndash; Projects authorized for complete plans, specifications and estimate (PS&amp;E) preparation, right-of-way acquisition, utility adjustments and construction letting. (Current year plus the next three years.)<br>
+            <br>
+          </p>
+          </td>
+  </tr>
+  </table>  
+  
+    </td>
+  </tr>
+</table>
+
+<table CELLPADDING="0" CELLSPACING="0" BORDER="0"  width="100%">
+<tr>
+<td width="160"><img border="0" src="../../../imglib/SPACER.GIF" alt="spacer" width="160" height="1"></td>
+<td width="100%"><img border="0" src="../../../imglib/SPACER.GIF" alt="spacer" width="1" height="2"></td>
+</tr>
+<tr><td nowrap align=center width="160" class=copyright valign="top" background="../../../imglib/new/bg_lightblueline.gif">
+<b>© Copyright 2004</b>, TxDOT<br>All Rights Reserved.
+   </td>
+<td valign="top" align="center" background="../../../imglib/new/bg_lightblueline.gif" width="100%">
+<a class="bluebold9pt" href="/siteinfo/disclaimer.htm">Disclaimer</a> | 
+<a class="bluebold9pt" href="/siteinfo/contentusage.htm">Content Usage</a> | 
+<a class="bluebold9pt" href="/siteinfo/privacy.htm">Privacy Policy</a> | 
+<a class="bluebold9pt" href="/PIO/openrecords.htm">Open Records</a> | 
+<a class="bluebold9pt" href="/accessibility/default.htm">Accessibility</a> | 
+<a class="bluebold9pt" href="/maillist/stwcont.htm">TxDOT Contacts</a>
+</td>
+</tr>
+</table>
+<br>
+<hr>
+<form action='../processComments.asp' method="post">
+      <table width="500" border="0" align="center" bgcolor="#FFFFCC">
+        <tr>
+          <td colspan="3"><p align="center"><font color="#003366"><strong>If
+                  you would like to comment on the contents of this webpage<br>
+          please fill out the form below. Thanks!<br>
+                  <br>
+              </strong></font></p>
+          </td>
+        </tr>
+		<tr>
+          <td width="20" rowspan="2">&nbsp;</td>
+          <td width="228" valign="top"><font color="#003366"><strong>Name:</strong><br>
+            <input name="name" type="text" size="30">
+          </font></td>
+          <td width="240" rowspan="2" valign="top"><font color="#003366"><strong>Comments:</strong></font>                              
+		    <textarea name="comments" cols="30" rows="8"></textarea>
+          </td>
+        </tr>
+        <tr>
+          <td width="228" align="left" valign="top"><font color="#003366">
+            <input name="webPage" type="hidden" id="webPage" value="UTP FAQs">
+          </font></td>
+        </tr>
+        <tr>
+          <td colspan="3" valign="top"><div align="center">
+            <p><br>
+                <input type="submit" name="Submit" value="Send Comments">
+                <br>
+            </p>
+            </div></td>
+        </tr>
+      </table>
+</form><br>
+</body>
+</html>

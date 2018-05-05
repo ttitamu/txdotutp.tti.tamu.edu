@@ -1,0 +1,26 @@
+body {
+	background-repeat: repeat;
+	background-position: center;
+	padding: 0px;
+	font-family: Verdana, Geneva, Arial, helvetica, sans-serif;
+	color: #FFFFFF;
+	background-color: #822B31;
+}
+
+td {
+	font-family: Verdana, Geneva, Arial, helvetica, sans-serif;
+}
+
+h1 {
+	font-family: Verdana, Geneva, Arial, helvetica, sans-serif;
+}
+th#workgroup_head {
+	background-color: #1C5BA2;
+	border: 1px solid #999;
+}
+table#tableStyle {
+	border: 1px solid #999;
+}
+a {
+	color: #FFFFFF;
+}

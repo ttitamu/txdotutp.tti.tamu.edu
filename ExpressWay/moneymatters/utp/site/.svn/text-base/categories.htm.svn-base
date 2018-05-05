@@ -1,0 +1,387 @@
+<!doctype HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<title>Unified Transportation Program (UTP)</title>
+<meta http-equiv="Content-Language" content="en-us">
+<meta name="GENERATOR" content="Microsoft FrontPage 5.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>TxDOT Unified Transportation Program</title>
+<meta name="description" content="Unified Transportation Program">
+<meta name="keywords" content="Texas Department of Transportation, 
+TxDOT, State of Texas, DOT, highways, roads, business, construction, maintenance, 
+design, schedule, plans">
+<meta name="author" content="Texas Department of Transportation (State of Texas)">
+<meta http-equiv="expires" content="Tue, 1 Jul 1980 00:00:01 GMT">
+<script LANGUAGE="JavaScript" TYPE="text/javascript">
+<!--
+if(window.event + "" == "undefined") event = null;
+function HM_f_PopUp(){return false};
+function HM_f_PopDown(){return false};
+popUp = HM_f_PopUp;
+popDown = HM_f_PopDown;
+
+//-->
+</script>
+<script LANGUAGE="JavaScript1.2" TYPE="text/javascript">
+<!--
+var ArrayName = "MoneyMatters";
+//-->
+</script>
+<script LANGUAGE="JavaScript1.2" SRC="../../../txdotmenu/HM_Loader.js" TYPE="text/javascript">
+</script>
+<link rel="stylesheet" type="text/css" href="../../../template/stylesheets/txdot.css">
+</head>
+
+<body topmargin="0" leftmargin="2" marginwidth="2" marginheight="0">
+
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td><img border="0" src="../../../imglib/new/txdot_exp_logo.gif" alt="TxDOT Expressway" width="343" height="37"></td>
+<td align="right">
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><b>Search:</b></td>
+</tr>
+<tr>
+<form action="/index/queryhit.idq" method="GET">
+<td>
+	<input type="hidden" name="CiMaxRecordsPerPage" value="10" size="0">
+	<input type="hidden" name="CiScope" value="/" size="0">
+	<input type="hidden" name="CiSort" value="rank[d]" size="0">
+	<input type="hidden" name="HTMLQueryForm" value="/search/search.htm" size="0">
+	<input type="hidden" name="TemplateName" value="queryhit" size="0">
+	<input type="text" size="15" name="UserRestriction" alt="Search Text Box">
+	<input type="submit" value="Go" class="Submit" alt="Submit Button">
+</td>
+</form>
+</tr>
+  <tr>
+    <td colspan="2">
+    </td>
+  </tr>
+</table>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+            <table border="0" cellpadding="2" cellspacing="0" width="100%">
+              <tr>
+                <td class="bluebkgrnd">
+		&nbsp;&nbsp;&nbsp;<a class="white" href="/txdot.htm">Home</a>&nbsp;&nbsp;&nbsp;|
+		&nbsp;&nbsp;&nbsp;<a class="white" href="/cgi-bin/mailform.pl">Contact Us</a>&nbsp;&nbsp;&nbsp;|
+		&nbsp;&nbsp;&nbsp;<a class="white" href="/tools/tools.htm">Tools</a>&nbsp;&nbsp;&nbsp;|
+		&nbsp;<a class="white" href="/othertrans/othertrans.htm">Links</a>&nbsp;&nbsp;&nbsp;|
+		&nbsp;&nbsp;&nbsp;<a class="white" href="/whatsnew/whatsnew.htm">What's New</a>&nbsp;&nbsp;&nbsp;|</td>
+                <td align="right" class="bluebkgrnd">
+		<a class="white" href="/help/help.htm">Help</a>&nbsp;&nbsp;&nbsp;</td>
+              </tr>
+            </table>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+    </td>
+  </tr>
+</table>
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td></td>
+  </tr>
+</table>
+<table CELLPADDING="0" CELLSPACING="0" BORDER="0">
+  <tr>
+    <td colspan="5">
+    <img border="0" src="../../../imglib/SPACER.GIF" width="3" height="3" alt="spacer"></td>
+  </tr>
+  <tr>
+    <td width="160" valign="top">
+    
+    <table CELLPADDING="0" CELLSPACING="0" BORDER="0"><tr><form><td>
+<b>DOT Links<sup>©</sup></b>
+<br>
+<select size="1" name="DotLink" onchange="javascript:if (DotLink.options[selectedIndex].value != '')location.href = DotLink.options[selectedIndex].value">
+ <option>Select A Link...</option>
+ <option value="/insdtdot/geninfo.htm">About TxDOT</option>
+ <option value="/vtr/vtrreginfo.htm">Automobiles</option>
+ <option value="/AVN/avninfo.htm">Aviation</option>
+ <option value="/business/business.htm">Business</option>
+ <option value="/customerservice/default.htm">Customer Services</option>
+ <option value="/employment/jobs.htm">Employment</option>
+ <option value="/resources/default.htm">Environmental</option>
+ <option value="/faqsandforms/index.htm">FAQs and Forms</option>
+ <option value="/kidsonly/splashpg/splashpg.htm">Kid's Pages</option>
+ <option value="/LAO/geninfo.htm">Legislation</option>
+ <option value="/localinfo/localinfo.htm">Local Information</option>
+ <option value="/moneymatters/moneymatters.htm">Money Matters</option>
+ <option value="/txdotnews/txdotnews.htm">News and Media</option>
+ <option value="/ptn/geninfo.htm">Public Transportation</option>
+ <option value="/rtmodes/rtmodes.htm">Roadway Information</option>
+ <option value="/trafficsafety/srs/default.htm">Safe Routes to School</option>
+ <option value="/trafficsafety/default.htm">Traffic Safety</option>
+ <option value="/mis/mis.htm">Transportation Studies</option>
+ <option value="/travelservices/">Travel Services</option>
+ <option value="/mcd/onestop/">Trucking / VSF</option>
+</select>
+</td></form></tr></table>
+
+<br>&nbsp;
+	
+    <!-- #include virtual = "/moneymatters/includes/nojs-menu.inc"  -->
+    </td>
+    <td width="3">
+    <img border="0" src="../../../imglib/SPACER.GIF" width="3" height="1" alt="spacer"></td>
+    <td width="1" background="../../../imglib/new/horz_line-a.gif">
+    <img border="0" src="../../../imglib/SPACER.GIF" alt="spacer" width="1" height="1"></td>
+    <td width="3">
+    <img border="0" src="../../../imglib/SPACER.GIF" width="3" height="1" alt="spacer"></td>
+    <td valign="top" width="100%">
+    <table border="0" cellpadding="2" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" id="AutoNumber1">
+      <tr>
+        <td width="100%" valign="top">
+          <div align="left"><a name="top"></a>      <SPAN class=pghdr>Unified Transportation Program (UTP) Categories</SPAN> </div>
+          <p>The UTP is divided into two parts: the Statewide Mobility
+            Program (SMP) and the Statewide Preservation Program (SPP).
+        <p>The Statewide Preservation Program (SPP) consists of three categories: </p>
+        <table width="100%"  border="0">
+            <tr>
+              <td width="110" valign="top"><img src="../../../imglib/new/Maintain.It.jpg" width="102" height="102"></td>
+              <td><p><a href="#one">Preventive Maintenance and Rehabilitation</a><br>
+                    <a href="#six">Structures Replacement and Rehabilitation</a><br>
+                    <a href="#eight">Safety</a>              </p>
+                <p> Projects in the SPP accounts for the Maintain It part of
+                  the program. The two categories in the SPP provide funding
+                  to preserve the existing transportation system in your city
+                  or region and protect existing taxpayer investments. Projects
+                  in the SPP can include resurfacing of roads, improved signage,
+                  and maintenance of bridges. </p></td>
+            </tr>
+          </table>
+		  
+        <br>
+        The Statewide Mobility Program (SMP) consists of the following highway
+            construction categories:<br><br>
+            <table width="100%"  border="0">
+  <tr>
+    <td width="110" valign="top"><img src="../../../imglib/new/Build.It.jpg" width="102" height="102"></td>
+    <td><p><a href="#two">Metropolitan Area (TMA) Corridor Projects</a><br>
+          <a href="#three">Urban Area (Non-TMA) Corridor Projects</a><br>
+          <a href="#four">Statewide Connectivity Corridor Projects</a><br>
+          <a href="#five">Congestion Mitigation and Air Quality Improvement</a><br>
+          <a href="#seven">Metropolitan Mobility and Rehabilitation</a><br>
+          <a href="#nine">Transportation Enhancements</a><br>
+          <a href="#ten">Supplemental Transportation Program</a><br>
+          <a href="#eleven">District Discretionary</a><br>
+          <a href="#twelve">Strategic Priority</a></p>
+      <p> The SMP addresses the Build It aspects of the UTP. Typical projects
+        include: new road construction, road expansion projects such as adding
+        a lane in each direction, and air quality improvements. All of the
+        projects in the SMP have been identified previously in the Transportation
+        Improvement Program (TIP) or Metropolitan Transportation Plan (MTP) developed
+        by the MPO in your city or region. The TIP represents the next 3 to 5
+        years and is part of the Metropolitan Transportation Plan (MTP) which
+        covers your region's highway needs for the next 20 years. </p></td>
+  </tr>
+</table>
+		    <p><strong>Statewide Preservation Program Categories</strong></p>
+            <blockquote>
+              <p><a name="one" id="one"></a><u>Preventive Maintenance and
+              Rehabilitation (Category 1)</u><br>
+ Roads in Texas have to be maintained at a high level and, in cases where the
+ road has serious problems, improvements must be made. These types of work are
+ funded by this category. Maintenance and rehabilitation funds are used on roads
+ served by TxDOT and may be used for rehabilitation of the Interstate Highway
+ System, frontage roads, structures, rehabilitation of road signs, pavement markings,
+ striping, etc. The Transportation Planning and Programming Division of TxDOT
+ may approve the use of rehabilitation funds for the construction of highway
+ interchanges and HOV lanes on the Interstate Highway System. Funds in this category
+ may <em>not </em> be used for the construction of new lanes that would have
+ primarily single passenger vehicles on them. Preventive Maintenance and Rehabilitation
+ funding is distributed regionally by formula by the Texas Transportation Commission,
+ with projects selected by TxDOT districts, including yours. For more detail on the Preventive Maintenance and Rehabilitation category, click <a href="SPP.Detail.htm#pmr">here</a>. <br>
+              (<a href="#top">back to top</a>)</p>
+              <p><a name="six"></a><u>Structures
+                Replacement and Rehabilitation (Category 6)</u><br>
+ Roads in Texas have to be maintained at a high level and, in cases where the
+ road has serious problems, improvements must be made. These types of work are
+ funded by this category. Maintenance and rehabilitation funds are used on roads
+ served by TxDOT and may be used for rehabilitation of the Interstate Highway
+ System, frontage roads, structures, rehabilitation of road signs, pavement markings,
+ striping, etc. The Transportation Planning and Programming Division of TxDOT
+ may approve the use of rehabilitation funds for the construction of highway
+ interchanges and HOV lanes on the Interstate Highway System. Funds in this category
+ may <em>not </em> be used for the construction of new lanes that would have
+ primarily single passenger vehicles on them. Preventive Maintenance and Rehabilitation
+ funding is distributed regionally by formula by the Texas Transportation Commission,
+ with projects selected by TxDOT districts, including yours. For more detail on the Structures Replacement and Rehabilitation category, click <a href="SPP.Detail.htm#srr">here</a>.<br>
+ (<a href="#top">back to top</a>)<br>
+ <br>
+ <a name="eight"></a><u>Safety (Category 8)</u><br>
+Two highway safety programs are funded in this category: the Federal Hazard Elimination Program and the Federal Railroad Signal Safety Program. The Hazard Elimination Program can fund projects on all Texas roads. Projects are selected throughout the state using mandatory federal safety criteria. The projects are evaluated using three years of accident data and ranked by the Safety Improvement Index, a federal method of looking at highway safety issues. Funding is divided up by the Texas Transportation Commission based on the criteria and available funds. The Railroad Signal Safety Program funds installation of automatic railroad warning devices at hazardous railroad crossings on all Texas roads. Projects are selected from a statewide list which is prioritized by the Railroad Crossing Index. Several criteria make up the index including: number of trains per day, train speed, traffic, type of existing warning device, train-involved accidents within the last five years, and more. For more detail on the Safety category, click <a href="SMP.Detail.htm#safety">here</a>. <br>
+(<a href="#top">back to top</a>)</p>
+            </blockquote>            
+            <p><strong>Statewide Mobility Program</strong></p>
+            <blockquote>
+              <p><a name="two"></a><u>Metropolitan Area (TMA) Corridor Projects (Category 2)</u><br>
+ Large metropolitan areas in our state with populations greater than 200,000
+ have several areas that contain high levels of traffic, or corridors. The roads
+ in these areas of congestion may not be capable of minimizing traffic as they
+ are currently built. Corridor projects in this category are mobility and/or
+ added capacity projects on major state highway system corridors which serve
+ the mobility needs of large population centers. These corridor projects are
+ selected by the Texas Transportation Commission statewide based on a formula. For more detail on the Metropolitan Area Corridor Projects category, click <a href="SMP.Detail.htm#macp">here</a>. <br>
+(<a href="#top">back to top</a>)</p>
+              <p><a name="three"></a><u>Urban Area (Non-TMA) Corridor Projects (Category 3)</u><br>
+ Medium-to-small population centers (50,000–200,000) in our state have areas
+ of high traffic and congestion that needs to be managed efficiently. Corridor
+ projects in this category are mobility and/or added capacity projects on major
+ state highway system corridors which serve the mobility needs of these smaller
+ urban areas. These corridor projects are selected by the Texas Transportation
+ Commission statewide based on a formula. For more detail on the Urban Area Corridor Projects category, click <a href="SMP.Detail.htm#uacp">here</a>. <br>
+(<a href="#top">back to top</a>)</p>
+				  <p><a name="four"></a><u>Statewide Connectivity Corridor Projects (Category 4)</u><br>
+ Mobility and/or added capacity projects on major state highway system corridors
+ that improve the highway connections between large urban areas are funded in
+ this category. Project types can include maintaining trade corridors along the
+ Interstate Highway System, for example I-10, or major roads from the border
+ region to urban areas in the state. These corridor projects are selected by
+ the Texas Transportation Commission statewide based on a formula. For more detail on the Statewide Connectivity Corridor Projects category, click <a href="SMP.Detail.htm#sccp">here</a>. <br>
+			(<a href="#top">back to top</a>)</p>
+			<p><a name="five"></a><u>Congestion Mitigation and Air Quality Improvement (Category 5)</u><br>
+ These projects, commonly referred to as CMAQ projects, work to meet federal
+ air quality standards in areas of the state where air pollution fails to meet
+ the standard. Funds cannot be used to add road capacity for driver-only vehicles.
+ The Texas Transportation Commission allocates funding in this category based
+ upon the population in the affected areas weighted by how severe the air quality
+ problem is in the area. Projects are selected by Metropolitan Planning Organizations
+ (MPOs) in consultation with TxDOT and the <a href="http://www.tceq.org/" target="_blank">Texas
+ Commission on Environmental Quality </a> (TCEQ). For more detail on the Congestion Mitigation and Air Quality Improvement category, click <a href="SMP.Detail.htm#cmaq">here</a>. <br>
+			  (<a href="#top">back to top</a>)</p>
+		    <p><a name="seven"></a><u>Metropolitan Mobility and Rehabilitation (Category 7)</u><br>
+ The transportation needs within metropolitan areas with populations of 200,000
+ or greater are served by this category. Projects are selected by Metropolitan
+ Planning Organizations (MPOs) and funding is allocated by the Texas Transportation
+ Commission based on the population of metropolitan areas. For more detail on the Metropolitan Mobility and Rehabilitation category, click <a href="SMP.Detail.htm#mmr">here</a>. <br>
+		      (<a href="#top">back to top</a>)</p>
+			  <p><a name="nine"></a><u>Transportation Enhancements (Category 9)</u><br>
+ Adding value to our driving experiences on Texas roads is the goal of this category.
+ Types of enhancement projects include landscaping, bicycle and pedestrian facilities,
+ historic preservation sites, and improving the scenic quality of roads. Category
+ funds increase the normal funding of enhancement projects on roads served by
+ TxDOT. Projects are recommended by local governments, reviewed and recommended
+ by committee, and then selected by the Texas Transportation Commission. For more detail on the Transportation Enhancements category, click <a href="SMP.Detail.htm#te">here</a>. <br>
+(<a href="#top">back to top</a>)</p>
+			<p><a name="ten"></a><u>Supplemental Transportation Program (Category 10)</u><br>
+ Seven individual programs make up this category: State Park Roads, the Railroad
+ Grade Crossing Replanking Program, the Railroad Signal Maintenance Program,
+ Construction Landscape Programs, and miscellaneous Federal programs the state
+ may choose to participate in.
+<ul>
+	<li> The State Parks Roads projects are selected by the Texas Parks and Wildlife
+ Department for the construction and rehabilitation of roadways within or near
+ state parks, fish hatcheries, and other wildlife areas.</li>
+	<li> The Railroad Grade Crossing Replanking Program replaces rough railroad
+	  crossing surfaces on roads maintained by TxDOT. Approximately 140 installations
+	  on rail crossings are conducted statewide per year.</li>
+	<li> The Railroad Signal Maintenance Program contributes funding to each railroad
+	  company to maintain rail signals based on the number of crossings on state
+	  roads and the type of automatic signals at each crossing.</li>
+	<li> The Construction Landscape Program funds new landscape development projects
+	  such as right-of-way landscape development, rest area/picnic area landscape
+	  development, and erosion control on roads maintained by TxDOT. These projects
+	  are selected at the TxDOT district level. </li>
+	<li> The Landscape Cost Sharing Program allows TxDOT to negotiate and implement
+	  landscape development projects through partnerships with local governments
+	  with support from civic associations and private groups.</li>
+    <li> The Green Ribbon Landscape Improvement Program allows TxDOT to implement
+      new landscape development and establishment projects in areas of the state
+      that do not meet federal air quality standards. Trees and plants can help
+      lessen the effects of air pollution in the areas.</li>
+    <li> The Texas Transportation Commission may also approve state participation
+      in federal programs such as <a href="http://www.fhwa.dot.gov/flh/forest.htm" target="_blank">Forest
+      Highways </a>, <a href="http://www.fhwa.dot.gov/flh/indresrd.htm" target="_blank">Indian
+      Reservation Highways </a>, <a href="http://www.fhwa.dot.gov/flh/" target="_blank">Federal
+      Lands Highways </a>, and <a href="http://www.fhwa.dot.gov/discretionary/fbprinfo.htm" target="_blank">Ferry
+      Boat Discretionary </a>. The Supplemental Transportation Projects category
+      provides a vehicle for this type of funding.</li>
+</ul>
+For more detail on the Supplemental Transportation Program category, click <a href="SMP.Detail.htm#stp">here</a>. (<a href="#top">back to top</a>)</p>
+<p><a name="eleven"></a><u>District Discretionary (Category 11)</u><br>
+ This category allows TxDOT districts to fund miscellaneous projects on roads
+ maintained by TxDOT. Some of the funds may be used on county and city roads.
+ Projects are selected by the district. The Texas Legislature mandated that each
+ TxDOT district receive a minimum of $2.5 million per year in this category.
+ Funding above that amount is divided up by formula and approved by the Texas
+ Transportation Commission. For more detail on the District Discretionary category, click <a href="SMP.Detail.htm#dd">here</a>. <br>
+ (<a href="#top">
+  back to top</a>)</p>
+  <p><a name="twelve"></a><u>Strategic Priority (Category 12)</u><br>
+ The Texas Transportation Commission may select projects that promote economic
+ development, help Texas roads connect with the same roads in bordering states
+ and Mexico , improve roads on military deployment routes, or address other strategic
+ needs as determined by the Commission. For more detail on the Strategic Priority category, click <a href="SMP.Detail.htm#sp">here</a>. <br>
+    (<a href="#top"> back to top</a>)</p>
+          </blockquote></td>
+  </tr>
+  </table>
+    </td>
+  </tr>
+</table><br>
+
+<table CELLPADDING="0" CELLSPACING="0" BORDER="0"  width="100%">
+<tr>
+<td width="160"><img border="0" src="../../../imglib/SPACER.GIF" alt="spacer" width="160" height="1"></td>
+<td width="100%"><img border="0" src="../../../imglib/SPACER.GIF" alt="spacer" width="1" height="2"></td>
+</tr>
+<tr><td nowrap align=center width="160" class=copyright valign="top" background="../../../imglib/new/bg_lightblueline.gif">
+<b>© Copyright 2004</b>, TxDOT<br>All Rights Reserved.
+   </td>
+<td valign="top" align="center" background="../../../imglib/new/bg_lightblueline.gif" width="100%">
+<a class="bluebold9pt" href="/siteinfo/disclaimer.htm">Disclaimer</a> | 
+<a class="bluebold9pt" href="/siteinfo/contentusage.htm">Content Usage</a> | 
+<a class="bluebold9pt" href="/siteinfo/privacy.htm">Privacy Policy</a> | 
+<a class="bluebold9pt" href="/PIO/openrecords.htm">Open Records</a> | 
+<a class="bluebold9pt" href="/accessibility/default.htm">Accessibility</a> | 
+<a class="bluebold9pt" href="/maillist/stwcont.htm">TxDOT Contacts</a>
+</td>
+</tr>
+</table>
+<br>
+<hr>
+<form action='../processComments.asp' method="post">
+      <table width="500" border="0" align="center" bgcolor="#FFFFCC">
+        <tr>
+          <td colspan="3"><p align="center"><font color="#003366"><strong>If
+                  you would like to comment on the contents of this webpage<br>
+          please fill out the form below. Thanks!<br>
+                  <br>
+              </strong></font></p>
+          </td>
+        </tr>
+		<tr>
+          <td width="20" rowspan="2">&nbsp;</td>
+          <td width="228" valign="top"><font color="#003366"><strong>Name:</strong><br>
+            <input name="name" type="text" size="30">
+          </font></td>
+          <td width="240" rowspan="2" valign="top"><font color="#003366"><strong>Comments:</strong></font>                              
+		    <textarea name="comments" cols="30" rows="8"></textarea>
+          </td>
+        </tr>
+        <tr>
+          <td width="228" align="left" valign="top"><font color="#003366">
+            <input name="webPage" type="hidden" id="webPage" value="UTP Categories">
+          </font></td>
+        </tr>
+        <tr>
+          <td colspan="3" valign="top"><div align="center">
+            <p><br>
+                <input type="submit" name="Submit" value="Send Comments">
+                <br>
+            </p>
+            </div></td>
+        </tr>
+      </table>
+</form><br>
+</body>
+</html>

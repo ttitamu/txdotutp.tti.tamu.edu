@@ -1,0 +1,80 @@
+A.white:link, a.white:link, A.white:visited, a.white:visited {
+  color: #FFFFFF; text-decoration: none
+}
+A.white:hover, a.white:hover {
+  color: #FFFF00; text-decoration: none; font-weight: bold 
+  }
+A.bluebold10pt, a.bluebold10pt {
+  color: #0000FF; font-size: 10pt; text-decoration: none; font-weight: bold 
+  }
+A:link, a:link, A:Visited, a:Visited, a:Active, A:Active {
+  color: #0000FF; text-decoration: none
+  }
+A:hover, a:hover {
+  color: #0000FF; text-decoration: none; font-weight: bold 
+  }
+A.bluebold9pt, a.bluebold9pt {
+  color: #0000FF; text-decoration: none; font-weight: bold 
+  }
+td, th, dd, dt, dl, caption, p, ul, li, ol
+	{
+	FONT-FAMILY: Arial,Verdana,Helvetica,MS San Serif,sans-serif; FONT-SIZE: 9pt
+	}
+.smallfont
+	{
+	FONT-FAMILY: Arial,Verdana,Helvetica,MS San Serif,sans-serif; FONT-SIZE: 8pt
+	}
+.nrcontact
+	{
+	FONT-FAMILY: Arial,Verdana,Helvetica,MS San Serif,sans-serif; FONT-SIZE: 9pt; font-style: italic; font-weight: bold
+	}
+td.bluebkgrnd
+	{
+	background-color: #0000FF;
+	color: #FFFFFF; font-weight: bold
+	}
+select, input 
+	{
+	FONT-FAMILY: Arial,Verdana,Helvetica,MS San Serif,sans-serif; FONT-SIZE: 9pt
+	}
+.Submit 
+	{
+	FONT-WEIGHT: bold
+	}
+.sans_bold 
+	{
+	FONT-FAMILY: Arial,Verdana,Helvetica,MS San Serif,sans-serif; FONT-SIZE: 9pt; FONT-WEIGHT: bold
+	}
+.sans_gray_bold 
+	{
+	FONT-FAMILY: Arial,Verdana,Helvetica,MS San Serif,sans-serif; FONT-SIZE: 9pt; FONT-WEIGHT: bold; COLOR: #808080
+	}
+.pghdr 
+	{
+	FONT-FAMILY: Arial,Verdana,Helvetica,MS San Serif,sans-serif; FONT-SIZE: 12pt; FONT-WEIGHT: bold
+	}
+.hppghdr 
+	{
+	FONT-FAMILY: Arial,Verdana,Helvetica,MS San Serif,sans-serif; FONT-SIZE: 14pt; FONT-WEIGHT: bold
+	}
+.kidpghdr 
+	{
+	FONT-FAMILY: Arial,Verdana,Helvetica,MS San Serif,sans-serif; FONT-SIZE: 18pt; FONT-WEIGHT: bold
+	}
+
+.copyright 
+	{
+	FONT-FAMILY: Arial,Verdana,Helvetica,MS San Serif,sans-serif; FONT-SIZE: 9pt;
+	}
+.temp 
+	{
+	FONT-FAMILY: Arial,Verdana,Helvetica,MS San Serif,sans-serif; FONT-SIZE: 18pt;
+	}
+.tempdeg 
+	{
+	FONT-FAMILY: Arial,Verdana,Helvetica,MS San Serif,sans-serif; FONT-SIZE: 12pt;
+	}
+.temprpt 
+	{
+	FONT-FAMILY: Arial,Verdana,Helvetica,MS San Serif,sans-serif; FONT-SIZE: 8pt;
+	}
